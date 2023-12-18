@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/12Nripendra/TextFormatify/static/css/main.31d6cfe0.css",
+    "main.js": "/12Nripendra/TextFormatify/static/js/main.1b767042.js",
+    "static/js/787.1937f22b.chunk.js": "/12Nripendra/TextFormatify/static/js/787.1937f22b.chunk.js",
+    "index.html": "/12Nripendra/TextFormatify/index.html",
+    "main.1b767042.js.map": "/12Nripendra/TextFormatify/static/js/main.1b767042.js.map",
+    "787.1937f22b.chunk.js.map": "/12Nripendra/TextFormatify/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1b767042.js"
+  ]
+}
